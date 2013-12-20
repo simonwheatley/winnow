@@ -17,6 +17,6 @@ To run this script you will need some terminal knowledge. Put your
 
 `$ ./winnow.sh`
 
-Then grab the ``good-emails.csv` and pick your winner! Remember to check 
+Then grab the `good-emails.csv` and pick your winner! Remember to check 
 the winner just in case they're in a bad domain Winnow doesn't know about.
 
